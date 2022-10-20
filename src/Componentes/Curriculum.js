@@ -37,7 +37,7 @@ export default function Curriculum() {
                         <li>Typescript / React</li>
                         <li>Redux / PostgreSql</li>
                         <li>Material UI / Bootstrap</li>
-                        <li>MongoDB</li>
+                        <li>MongoDB / Docker</li>
                     </ul>
                 </div>
                 <div className='dos'>
