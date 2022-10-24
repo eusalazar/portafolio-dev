@@ -6,21 +6,22 @@ services:
       VIRTUAL_HOST: euge.dev, www.euge.dev
       LETSENCRYPT_HOST: euge.dev, www.euge.dev
       LETSENCRYPT_EMAIL: eugeniasalazar745@gmail.com
-      VIRTUAL_PORT: 3000
+      VIRTUAL_PORT: 3500
     build:
       context: .
       dockerfile: Dockerfile
     expose:
-      - 3000
+      - 3500
     ports:
-      - 3000:3000
+      - 3500:3500
+      # - 80:3500
     container_name: react-portfolio
     volumes:
       - .:/usr/src/app
       - ./build:/usr/src/app/build
       - /usr/src/app/node_modules
 
-# networks:
-#   default:
-#     external:
-#       name: nginx-proxy
+networks:
+  default:
+    external:
+      name: nginx-proxy
