@@ -11,6 +11,8 @@ RUN npm install
 
 RUN npm run build
 
+COPY build/ ./build
+
 COPY . .
 
 RUN npm install -g serve

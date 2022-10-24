@@ -19,6 +19,7 @@ services:
     volumes:
       - .:/usr/src/app
       - ./build:/usr/src/app/build
+      - ./build:/usr/src/build
       - /usr/src/app/node_modules
 
 networks:
