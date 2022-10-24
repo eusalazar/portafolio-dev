@@ -9,13 +9,9 @@ COPY src/ ./src
 
 RUN npm install
 
-RUN npm run build
+RUN npm install -g serve
 
 COPY build/ ./build
-
-COPY . .
-
-RUN npm install -g serve
 EXPOSE 3500
 
 # CMD ["npm", "run", "start"]
