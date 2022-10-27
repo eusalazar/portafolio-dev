@@ -6,7 +6,8 @@ export const proyectos = [
         'tecnologias':'jQuery, HTML, Css',
         'gitHub':'https://github.com/eusalazar/to-do',
         'categoria':'Desarrollo Web',
-        'descripcion': 'Utilice jQuery que una biblioteca de JavaScript rápida, pequeña y rica en funciones para desarrollar un pequeño proyecto de tareas donde el usuario puede añadir ,eliminar y marcar tareas ya completadas.'
+        'descripcion': 'Utilice jQuery que una biblioteca de JavaScript rápida, pequeña y rica en funciones para desarrollar un pequeño proyecto de tareas donde el usuario puede añadir ,eliminar y marcar tareas ya completadas.',
+        'thumbnail': '/images/videogames.png'
     },
     {
         'id':'videogames',
@@ -15,7 +16,8 @@ export const proyectos = [
         'tecnologias':'PosgrestSQL, Node js, Express, JS,React, Redux, HTML, Css',
         'gitHub' : 'https://github.com/eusalazar/videogames',
         'categoria':'Desarrollo Web',
-        'descripcion': 'Aplicación de diseño neon dedicada a encontrar información de más de 500.000 API de base de datos de juegos. Donde los usuarios pueden filtrar, ordenar, aprender e incluso crear su propio registro de juegos.Construimos esta app utilizando React, Redux, Express, Node y Sequelize- Postgres.'
+        'descripcion': 'Aplicación de diseño neon dedicada a encontrar información de más de 500.000 API de base de datos de juegos. Donde los usuarios pueden filtrar, ordenar, aprender e incluso crear su propio registro de juegos.Construimos esta app utilizando React, Redux, Express, Node y Sequelize- Postgres.',
+        'thumbnail': '/images/todo-jquerys.png'
     },
     {
         'id':'reloj-digital',
@@ -24,9 +26,8 @@ export const proyectos = [
         'tecnologias':'JavaScript, HTML, Css',
         'gitHub' :'https://github.com/eusalazar/Reloj-Digital',
         'categoria':'Desarrollo Web',
-        'descripcion': 'Construi un reloj digital con Javascript,que muestra las horas minutos y segundos y se actualiza constantemente. Defini una funcion que recoge la hora del sistema y la muestra en un campo de texto,tambien utilice el objeto Date de JavaScript, que sin pasarle  pasarle parametros se inicializa la hora y fecha actuales.'
-
-
+        'descripcion': 'Construi un reloj digital con Javascript,que muestra las horas minutos y segundos y se actualiza constantemente. Defini una funcion que recoge la hora del sistema y la muestra en un campo de texto,tambien utilice el objeto Date de JavaScript, que sin pasarle  pasarle parametros se inicializa la hora y fecha actuales.',
+        'thumbnail': '/images/reloj-digital.png'
     },
     {
         'id':'todo-react',
@@ -35,8 +36,8 @@ export const proyectos = [
         'tecnologias':'React, HTML, Css',
         'gitHub':'https://github.com/eusalazar/todo-React',
         'categoria':'Desarrollo Web',
-        'descripcion': 'Para desarrollar esta lista de tareas utilice React que nos ayuda a crear interfaces de usuario interactivas de forma sencilla y diseña vistas simples para cada estado de la  aplicación. Funciona de manera bastante siemple, el usuario puede agregar una tarea o elemento en el campo de entrada presionar Add para guardar, tambien puede eliminar y marcarla como realizada.'
-
+        'descripcion': 'Para desarrollar esta lista de tareas utilice React que nos ayuda a crear interfaces de usuario interactivas de forma sencilla y diseña vistas simples para cada estado de la  aplicación. Funciona de manera bastante siemple, el usuario puede agregar una tarea o elemento en el campo de entrada presionar Add para guardar, tambien puede eliminar y marcarla como realizada.',
+        'thumbnail': '/images/todo-react.png'
     },
 
 ]

@@ -10,7 +10,7 @@ export default function ListadoProyectos({limite}) {
                     return (
                         <article key={proyecto.id} className='work-item'>
                             <div className='mask'>
-                                <img src={"/images/" + proyecto.id + ".png"} alt={''} />
+                                <img src={proyecto.thumbnail} alt={''} />
                             </div>
                             <span>{proyecto.categoria}</span>
                             <h2><Link to={'/proyecto/' + proyecto.id}> {proyecto.nombre}</Link></h2>
