@@ -1,6 +1,6 @@
 export const proyectos = [
     {
-        'id':'todo-jquery',
+        'id':'todo-jquerys',
         'nombre':'To do jQuery',
         'url':'https://eusalazar.github.io/to-do/',
         'tecnologias':'jQuery, HTML, Css',
