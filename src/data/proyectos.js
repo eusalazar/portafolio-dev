@@ -7,7 +7,7 @@ export const proyectos = [
         'gitHub':'https://github.com/eusalazar/to-do',
         'categoria':'Desarrollo Web',
         'descripcion': 'Utilice jQuery que una biblioteca de JavaScript rápida, pequeña y rica en funciones para desarrollar un pequeño proyecto de tareas donde el usuario puede añadir ,eliminar y marcar tareas ya completadas.',
-        'thumbnail': '/images/videogames.png'
+        'thumbnail': '/images/todo-jquerys.png'
     },
     {
         'id':'videogames',
@@ -17,7 +17,7 @@ export const proyectos = [
         'gitHub' : 'https://github.com/eusalazar/videogames',
         'categoria':'Desarrollo Web',
         'descripcion': 'Aplicación de diseño neon dedicada a encontrar información de más de 500.000 API de base de datos de juegos. Donde los usuarios pueden filtrar, ordenar, aprender e incluso crear su propio registro de juegos.Construimos esta app utilizando React, Redux, Express, Node y Sequelize- Postgres.',
-        'thumbnail': '/images/todo-jquerys.png'
+        'thumbnail': '/images/videogames.png'
     },
     {
         'id':'reloj-digital',
