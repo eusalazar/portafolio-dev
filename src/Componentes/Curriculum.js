@@ -33,7 +33,7 @@ export default function Curriculum() {
                         <li>HTML / Node Js</li>
                         <li>CSS / Express</li>
                         <li>JavaScript / Sequelize</li>
-                        <li>jQuery / Netx.js</li>
+                        <li>jQuery / Next.js</li>
                         <li>Typescript / React</li>
                         <li>Redux / PostgreSql</li>
                         <li>Material UI / Bootstrap</li>
@@ -56,6 +56,22 @@ export default function Curriculum() {
             <div className='info'>
             <h2>FORMACION ACADEMICA</h2>
                 <ul>
+                    <li><strong>Curso Profesional de Arquitectura de Software</strong></li>
+                    <p>Platzi</p>
+                    <a href={'https://platzi.com/p/eugeniasalazar745/curso/1248-pro-arquitectura/diploma/detalle/'}
+                        target="_blank" rel="noreferrer">Ver credencial</a>
+                    <li><strong>Curso Práctico de Arquitectura Backend</strong></li>
+                    <p>Platzi</p>
+                    <a href={'https://platzi.com/p/eugeniasalazar745/curso/2164-practico-backend/diploma/detalle/'}
+                        target="_blank" rel="noreferrer">Ver credencial</a>
+                    <li><strong>Fundamentos de Arquitectura de Software</strong></li>
+                    <p>Platzi</p>
+                    <a href={'https://platzi.com/p/eugeniasalazar745/curso/1247-arquitectura-software/diploma/detalle/'}
+                        target="_blank" rel="noreferrer">Ver credencial</a>
+                    <li>Curso de Introducción al Desarrollo Backend</li>
+                    <p>Platzi</p>
+                    <a href={'https://platzi.com/p/eugeniasalazar745/curso/2508-introduccion-backend/diploma/detalle/'}
+                        target="_blank" rel="noreferrer">Ver credencial</a>
                     <li><strong>Master en React</strong></li>
                     <p>Udemy</p>
                     <a href={'https://udemy-certificate.s3.amazonaws.com/image/UC-b08c24c0-a9c9-41e0-93fd-2c20607c89e6.jpg'}
@@ -110,6 +126,12 @@ export default function Curriculum() {
                         -Backend: Node.js | Express | PostgreSQL
                         -API: rawg.co</p>
                     </ul>
+            </div>
+            <div className='experiencia'>
+                <h2>IDIOMA</h2>
+                <p>Español nativo</p>
+                <p>Ingles A1 (Actualmente cursando en Platzi)</p>
+
             </div>
         </div>
     )
