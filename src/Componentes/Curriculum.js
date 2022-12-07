@@ -56,6 +56,10 @@ export default function Curriculum() {
             <div className='info'>
             <h2>FORMACION ACADEMICA</h2>
                 <ul>
+                    <li><strong>Audiocurso de Fundamentos de Arquitectura de Alta Concurrencia</strong></li>
+                    <p>Platzi</p>
+                    <a href={'https://platzi.com/p/eugeniasalazar745/curso/2509-arquitectura-alta-concurrencia/diploma/detalle/'}
+                        target="_blank" rel="noreferrer">Ver credencial</a>
                     <li><strong>Curso Profesional de Arquitectura de Software</strong></li>
                     <p>Platzi</p>
                     <a href={'https://platzi.com/p/eugeniasalazar745/curso/1248-pro-arquitectura/diploma/detalle/'}
@@ -68,7 +72,7 @@ export default function Curriculum() {
                     <p>Platzi</p>
                     <a href={'https://platzi.com/p/eugeniasalazar745/curso/1247-arquitectura-software/diploma/detalle/'}
                         target="_blank" rel="noreferrer">Ver credencial</a>
-                    <li>Curso de Introducción al Desarrollo Backend</li>
+                    <li><strong>Curso de Introducción al Desarrollo Backend</strong></li>
                     <p>Platzi</p>
                     <a href={'https://platzi.com/p/eugeniasalazar745/curso/2508-introduccion-backend/diploma/detalle/'}
                         target="_blank" rel="noreferrer">Ver credencial</a>
@@ -130,7 +134,7 @@ export default function Curriculum() {
             <div className='experiencia'>
                 <h2>IDIOMA</h2>
                 <p>Español nativo</p>
-                <p>Ingles A1 (Actualmente cursando en Platzi)</p>
+                <p>Ingles A2 (Actualmente cursando en Platzi)</p>
 
             </div>
         </div>
