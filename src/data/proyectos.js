@@ -12,7 +12,7 @@ export const proyectos = [
     {
         'id':'videogames',
         'nombre':'Videogames',
-        'url':'https://euge-videogames-client.herokuapp.com/',
+        'url':'https://www.client.videogames.euge.dev',
         'tecnologias':'PosgrestSQL, Node js, Express, JS,React, Redux, HTML, Css',
         'gitHub' : 'https://github.com/eusalazar/videogames',
         'categoria':'Desarrollo Web',
