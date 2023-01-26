@@ -1,4 +1,4 @@
-export const proyectos = [
+export const projects = [
     {
         'id':'todo-jquerys',
         'nombre':'To do jQuery',

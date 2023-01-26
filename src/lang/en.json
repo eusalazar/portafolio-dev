@@ -1,0 +1,98 @@
+{
+    "app.header" : "Welcome to my portfolio I'm" ,
+    "app.content" : "Learn React" ,
+    "app.channel.plug": "Tutorial brought to you by Lokalise",
+    "app.header.button-text": "Contact me",
+    "app.header.h2":"Some of my projects",
+
+    "app.header.hom":"Home",
+    "app.header.port":"Portfolio",
+    "app.header.resum":"Resume",
+    "app.header.cont":"Contact",
+
+    "app.cv.heading":"Resume",
+    "app.skill.one":"Strong understanding of JavaScript,HTML, and CSS",
+    "app.skill.two":"Experience with popular JavaScript frameworks such as React and Node.js",
+    "app.skill.three":"Familiarity with SQL and database management",
+    "app.skill.for":"Experience with Docker and containerization",
+    "app.skill.five":"Experience with Git and version control.",
+    "app.skill.six":"Strong problem-solving and analytical skills.",
+    "app.skill.seven":"Understanding of Agile methodologies and software development life cycle.",
+    "app.skill.eight":"Experience in building full-stack web applications.",
+    "app.skill.nine":"Strong communication and collaboration skills.",
+    "app.skill.ten":"Knowledge of RESTful API design principles.",
+    "app.skill.eleven":"Understanding of front-end performance optimization techniques",
+
+    "app.work.exp":"WORK EXPERIENCE",
+    "app.exp.one":"Freelance",
+    "app.exp.contact1":"-Web Layout with Bootstrap in projects developed with ASP.NET. REFERENCE: Adrian Turbay - 3816178876",
+    "app.exp.contact2":"-Collaboration on projects through Upwork.REFERENCE: Diego Paz - 386523328",
+    "app.exp.two":"Experienced Teacher Assistant at soyhenry.com Bootcamp, where I supported instructors in delivering high-quality coding education to students of all levels. Assisted in course curriculum development, lesson planning and delivery, and provided one-on-one support to students during lab sessions.  Utilized my strong technical skills and passion for teaching to help students understand complex coding concepts and improve their overall performance. Collaborated with instructors to create a positive and inclusive learning environment, and helped to ensure the success of all students in the program.",
+
+    "app.acad.exp":"ACADEMIC EXPERIENCE",
+    "app.acad.exp.one":"FULL STACK:Videogames-App",
+
+    "app.acad.form":"ACADEMIC TRAINING",
+    "app.credencial": "See credential",
+    "app.acad.form.one":"High Concurrency Architecture Fundamentals Audiocourse",
+    "app.acad.form.two":"Software Architecture Professional Course",
+    "app.acad.form.three":"Backend Architecture Practical Course",
+    "app.acad.form.for":"Fundamentals of Software Architecture",
+    "app.acad.form.five":"Introduction to Backend Development Course",
+    "app.acad.form.six":"Master in React",
+    "app.acad.form.seven":"Introduction to Software Testing: For Beginners",
+    "app.acad.form.eight":"QA Testing: A Basic Guide to Qua and the Robot Framework",
+    "app.acad.form.nine":"Community + Social MEDIA manager 2022",
+    "app.acad.henry":"Bootcamp with more than 800 hours of theoretical-practical course",
+
+    "app.idiom": "IDIOM",
+    "app.idiom.one": "Native Spanish",
+    "app.idiom.two": "English",
+
+
+
+
+
+
+
+
+    "app.contacto.h1": "Contact",
+    "app.placeholder.name":"nombre",
+
+    "app.projects.0.id": "todo-jquerysz",
+    "app.projects.0.nombre":"To do jQuery",
+    "app.projects.0.url":"https://eusalazar.github.io/to-do/",
+    "app.projects.0.tecnologias":"jQuery, HTML, Css",
+    "app.projects.0.gitHub":"https://github.com/eusalazar/to-do",
+    "app.projects.0.categoria":"Web development",
+    "app.projects.0.descripcion": "Use jQuery which is a fast, small and feature rich JavaScript library to develop a small task project where the user can add, remove and mark already completed tasks.",
+    "app.projects.0.thumbnail": "/images/todo-jquerys.png",
+
+    "app.projects.1.id":"videogames",
+    "app.projects.1.nombre":"Videogames",
+    "app.projects.1.url":"https://www.client.videogames.euge.dev",
+    "app.projects.1.tecnologias":"PosgrestSQL, Node js, Express, JS,React, Redux, HTML, Css",
+    "app.projects.1.gitHub": "https://github.com/eusalazar/videogames",
+    "app.projects.1.categoria":"Web development",
+    "app.projects.1.descripcion": "Neon design application dedicated to finding information from more than 500,000 game database APIs. Where users can filter, sort, learn, and even create their own game registry. We built this app using React, Redux, Express, Node, and Sequelize- Postgres.",
+    "app.projects.1.thumbnail": "/images/videogames.png",
+
+    "app.projects.2.id":"reloj-digital",
+    "app.projects.2.nombre":"Digital Clock",
+    "app.projects.2.url":"https://eusalazar.github.io/Reloj-Digital/",
+    "app.projects.2.tecnologias":"JavaScript, HTML, Css",
+    "app.projects.2.gitHub" :"https://github.com/eusalazar/Reloj-Digital",
+    "app.projects.2.categoria":"Web development",
+    "app.projects.2.descripcion": "I built a digital clock with Javascript, which shows hours minutes and seconds and is constantly updated. I defined a function that collects the system time and displays it in a text field, I also use the JavaScript Date object, which without passing parameters initializes the current time and date.",
+    "app.projects.2.thumbnail": "/images/reloj-digital.png",
+
+    "app.projects.3.id":"todo-react",
+    "app.projects.3.nombre":"To do React",
+    "app.projects.3.url":"https://62f05e680e3e5c77938b12ac--calm-macaron-e6cb24.netlify.app/",
+    "app.projects.3.tecnologias":"React, HTML, Css",
+    "app.projects.3.gitHub":"https://github.com/eusalazar/todo-React",
+    "app.projects.3.categoria":"Web development",
+    "app.projects.3.descripcion": "To develop this task list, use React which helps us create interactive user interfaces easily and design simple views for each state of the application. It works quite simply, user can add a task or item in input field press Add to save, also can delete and mark as done.",
+    "app.projects.3.thumbnail": "/images/todo-react.png"
+
+}

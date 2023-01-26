@@ -1,0 +1,94 @@
+{
+  "app.header" : "Bienvenidos a mi Portfolio soy " ,
+  "app.header.button-text": "Contacta conmigo",
+  "app.header.h2":"Algunos de mis proyectos",
+
+  "app.header.hom":"Inicio",
+  "app.header.port":"Portfolio",
+  "app.header.resum":"Curriculum",
+  "app.header.cont":"Contacto",
+
+  "app.cv.heading":"Curriculum",
+  "app.skill.one":"Fuerte comprensión de JavaScript, HTML y CSS.",
+  "app.skill.two":"Experiencia con populares entornos de JavaScript como React y Node.js.",
+  "app.skill.three":"Familiaridad con SQL y gestion de base de datos.",
+  "app.skill.for":"Experiencia con Docker y contenerización.",
+  "app.skill.five":"Experiencia con Git y control de versiones.",
+  "app.skill.six":"Fuerte resolución de problemas y habilidad de analisis.",
+  "app.skill.seven":"Comprensión de metodologías ágiles y ciclo de vida del desarrollo de software.",
+  "app.skill.eight":"Experiencia en la construcción de aplicaciones web full-stack.",
+  "app.skill.nine":"Fuerte comunicación y habilidades de colaboración.",
+  "app.skill.ten":"Conocimientos en diseño de API RESTful-principios.",
+  "app.skill.eleven":"Comprensión de front-end técnicas de optimización del rendimientos.",
+
+  "app.work.exp":"EXPERIENCIA LABORAL",
+  "app.exp.one":"Freelance",
+  "app.exp.contact1":"-Maquetación web con Bootstrap en proyectos desarrollados con ASP.NET. REFERENCIA: Adrián Turbay - 3816178876",
+  "app.exp.contact2":"-Colaboración en proyectos a través de Upwork.REFERENCIA: Diego Paz - 386523328",
+  "app.exp.two": "Asistente de profesor con experiencia en soyhenry.com Bootcamp, donde apoyé a los instructores en la entrega educación de codificación de alta calidad para estudiantes de todos los niveles. Asistido en el desarrollo del plan de estudios del curso, lección planificación y entrega, y proporcionó uno-a-uno apoyo a los estudiantes durante las sesiones de laboratorio. utilicé mi fuertes habilidades técnicas y pasión por enseñar para ayudar los estudiantes entienden conceptos de codificación complejos y mejorar su desempeño general. Colaboró con instructores para crear un aprendizaje positivo e inclusivo ambiente, y ayudó a asegurar el éxito de todos estudiantes en el programa",
+
+
+  "app.acad.exp":"EXPERIENCIA ACADEMICA",
+  "app.acad.exp.one":"FULL STACK:Videogames-App",
+
+  "app.acad.form":"FORMACION ACEDEMICA",
+  "app.credencial": "Ver credencial",
+  "app.acad.form.one":"Audiocurso de Fundamentos de Arquitectura de Alta Concurrencia",
+  "app.acad.form.two":"Curso Profesional de Arquitectura de Software",
+  "app.acad.form.three":"Curso Práctico de Arquitectura Backend",
+  "app.acad.form.for":"Fundamentos de Arquitectura de Software",
+  "app.acad.form.five":"Curso de Introducción al Desarrollo Backend",
+  "app.acad.form.six":"Master en React",
+  "app.acad.form.seven":"Introducción al Testing de software: para principiantes",
+  "app.acad.form.eight":"QA Testing: Guía básica para Qua y Robot Framework",
+  "app.acad.form.nine":"Community + Social MEDIA manager 2022",
+  "app.acad.henry":"Bootcam con mas de 800 horas de cursado teorico-practico",
+
+  "app.idiom": "IDIOMA",
+  "app.idiom.one": "Español nativo",
+  "app.idiom.two": "Ingles",
+
+  "app.projects.0.id": "todo-jquerys",
+  "app.projects.0.nombre":"To do jQuery",
+  "app.projects.0.url":"https://eusalazar.github.io/to-do/",
+  "app.projects.0.tecnologias":"jQuery, HTML, Css",
+  "app.projects.0.gitHub":"https://github.com/eusalazar/to-do",
+  "app.projects.0.categoria":"Desarrollo Web",
+  "app.projects.0.descripcion": "Utilice jQuery que una biblioteca de JavaScript rápida, pequeña y rica en funciones para desarrollar un pequeño proyecto de tareas donde el usuario puede añadir ,eliminar y marcar tareas ya completadas.",
+  "app.projects.0.thumbnail": "/images/todo-jquerys.png",
+
+  "app.projects.1.id":"videogames",
+  "app.projects.1.nombre":"Videogames",
+  "app.projects.1.url":"https://www.client.videogames.euge.dev",
+  "app.projects.1.tecnologias":"PosgrestSQL, Node js, Express, JS,React, Redux, HTML, Css",
+  "app.projects.1.gitHub" : "https://github.com/eusalazar/videogames",
+  "app.projects.1.categoria":"Desarrollo Web",
+  "app.projects.1.descripcion": "Aplicación de diseño neon dedicada a encontrar información de más de 500.000 API de base de datos de juegos. Donde los usuarios pueden filtrar, ordenar, aprender e incluso crear su propio registro de juegos.Construimos esta app utilizando React, Redux, Express, Node y Sequelize- Postgres.",
+  "app.projects.1.thumbnail": "/images/videogames.png",
+
+  "app.projects.2.id":"reloj-digital",
+  "app.projects.2.nombre":"Reloj Digital",
+  "app.projects.2.url":"https://eusalazar.github.io/Reloj-Digital/",
+  "app.projects.2.tecnologias":"JavaScript, HTML, Css",
+  "app.projects.2.gitHub" :"https://github.com/eusalazar/Reloj-Digital",
+  "app.projects.2.categoria":"Desarrollo Web",
+  "app.projects.2.descripcion": "Construi un reloj digital con Javascript,que muestra las horas minutos y segundos y se actualiza constantemente. Defini una funcion que recoge la hora del sistema y la muestra en un campo de texto,tambien utilice el objeto Date de JavaScript, que sin pasarle  pasarle parametros se inicializa la hora y fecha actuales.",
+  "app.projects.2.thumbnail": "/images/reloj-digital.png",
+
+  "app.projects.3.id":"todo-react",
+  "app.projects.3.nombre":"To do React",
+  "app.projects.3.url":"https://62f05e680e3e5c77938b12ac--calm-macaron-e6cb24.netlify.app/",
+  "app.projects.3.tecnologias":"React, HTML, Css",
+  "app.projects.3.gitHub":"https://github.com/eusalazar/todo-React",
+  "app.projects.3.categoria":"Desarrollo Web",
+  "app.projects.3.descripcion": "Para desarrollar esta lista de tareas utilice React que nos ayuda a crear interfaces de usuario interactivas de forma sencilla y diseña vistas simples para cada estado de la  aplicación. Funciona de manera bastante siemple, el usuario puede agregar una tarea o elemento en el campo de entrada presionar Add para guardar, tambien puede eliminar y marcarla como realizada.",
+  "app.projects.3.thumbnail": "/images/todo-react.png",
+
+
+
+
+
+
+
+  "app.contacto.h1": "Contacto"
+}

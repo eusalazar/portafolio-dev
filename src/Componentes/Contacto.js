@@ -1,5 +1,7 @@
 import React from 'react';
 import emailjs from '@emailjs/browser';
+import { FormattedMessage } from 'react-intl';
+
 
 export default function Contacto() {
 
@@ -13,7 +15,9 @@ export default function Contacto() {
 
     return (
         <div className='page'>
-            <h1 className='heading'>Contacto</h1>
+            <h1 className='heading'>
+                <FormattedMessage id= "app.contacto.h1"/>
+            </h1>
             <form className='contact' onSubmit={sendEmail} id='asdf'>
                 <input type='text' name="from_name" placeholder='Nombre'/>
                 <input type='text' name='user_name' placeholder='Apellidos'/>
