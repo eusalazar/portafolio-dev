@@ -15,11 +15,11 @@ export default function MisRutas() {
             <section className='content'>
             <Routes>
                 <Route path='/' element={<Navigate to='/inicio'/>}/>
-                <Route path='/inicio' element={<Inicio/>}/>
+                <Route path='/home' element={<Inicio/>}/>
                 <Route path='/portfolio' element={<Portfolio/>}/>
-                <Route path='/curriculum' element={<Curriculum/>}/>
-                <Route path='/contacto' element={<Contacto/>}/>
-                <Route path='/proyecto/:id' element={<Proyecto/>}/>
+                <Route path='/resume' element={<Curriculum/>}/>
+                <Route path='/contact' element={<Contacto/>}/>
+                <Route path='/project/:id' element={<Proyecto/>}/>
                 <Route path='/*' element={<h1 className='heading'>Error 404</h1>}/>
 
             </Routes>

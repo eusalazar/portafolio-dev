@@ -24,15 +24,17 @@ export default function Curriculum() {
                             target="_blank" rel="noreferrer"> </a>
                         <a class="fa-brands fa-square-github" href={'https://github.com/eusalazar'}
                             target="_blank" rel="noreferrer"> </a>
-                        <a class="fa-solid fa-envelope" href={'eugeniasalazar745@gmail.com'}
-                            target="_blank" rel="noreferrer" > </a>
                         <a class="fa-solid fa-file-pdf" href={Pdf} download="cv.pdf"
                             target="_blank" rel="noreferrer"> </a>
+                </div>
+                <div className='dos'>
+                    <h2><FormattedMessage id="app.about"/></h2>
+                    <p><FormattedMessage id="app.about.p"/></p>
                 </div>
             </div>
             <div className='skill'>
                 <div className='uno'>
-                    <h2>Skills</h2>
+                    <h2><FormattedMessage id="app.skills"/></h2>
                     <ul type='Circle'>
                         <li><FormattedMessage id="app.skill.one"/></li>
                         <li><FormattedMessage id="app.skill.two"/></li>
@@ -47,7 +49,6 @@ export default function Curriculum() {
                         <li><FormattedMessage id="app.skill.eleven"/></li>
                     </ul>
                 </div>
-
             </div>
             <div className='flex'>
             <div>

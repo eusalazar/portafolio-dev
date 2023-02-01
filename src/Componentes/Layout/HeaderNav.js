@@ -13,16 +13,16 @@ export const HeaderNav = () => {
             <nav>
                 <ul>
                     <li>
-                        <NavLink to='/inicio' className={({isActive}) => isActive ? "active" : ""}><FormattedMessage id="app.header.hom"/></NavLink>
+                        <NavLink to='/home' className={({isActive}) => isActive ? "active" : ""}><FormattedMessage id="app.header.hom"/></NavLink>
                     </li>
                     <li>
                         <NavLink to='/portfolio' className={({isActive}) => isActive ? "active" : ""}><FormattedMessage id="app.header.port"/></NavLink>
                     </li>
                     <li>
-                        <NavLink to='/curriculum' className={({isActive}) => isActive ? "active" : ""}><FormattedMessage id="app.header.resum"/></NavLink>
+                        <NavLink to='/resume' className={({isActive}) => isActive ? "active" : ""}><FormattedMessage id="app.header.resum"/></NavLink>
                     </li>
                     <li>
-                        <NavLink to='/contacto' className={({isActive}) => isActive ? "active" : ""}><FormattedMessage id="app.header.cont"/></NavLink>
+                        <NavLink to='/contact' className={({isActive}) => isActive ? "active" : ""}><FormattedMessage id="app.header.cont"/></NavLink>
                     </li>
                 </ul>
             </nav>

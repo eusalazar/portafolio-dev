@@ -1,5 +1,5 @@
 {
-    "app.header" : "Welcome to my portfolio I'm" ,
+    "app.header" : "Welcome to my portfolio, I'm" ,
     "app.content" : "Learn React" ,
     "app.channel.plug": "Tutorial brought to you by Lokalise",
     "app.header.button-text": "Contact me",
@@ -11,6 +11,9 @@
     "app.header.cont":"Contact",
 
     "app.cv.heading":"Resume",
+    "app.about":"About me",
+    "app.about.p":"Highly motivated and eager Junior Full-Stack JavaScript Developer with a passion for building innovative and intuitive web applications. Possessing a strong understanding of JavaScript, HTML, and CSS, as well as experience with popular frameworks such as React and Node.js. Strong problem-solving skills and ability to work well in a team environment. Excited to continue learning and growing in the tech industry.",
+    "app.skills":"SKILLS",
     "app.skill.one":"Strong understanding of JavaScript,HTML, and CSS",
     "app.skill.two":"Experience with popular JavaScript frameworks such as React and Node.js",
     "app.skill.three":"Familiarity with SQL and database management",
@@ -26,7 +29,7 @@
     "app.work.exp":"WORK EXPERIENCE",
     "app.exp.one":"Freelance",
     "app.exp.contact1":"-Web Layout with Bootstrap in projects developed with ASP.NET. REFERENCE: Adrian Turbay - 3816178876",
-    "app.exp.contact2":"-Collaboration on projects through Upwork.REFERENCE: Diego Paz - 386523328",
+    "app.exp.contact2":"-Collaboration on projects through Upwork.REFERENCE: Diego Paz - 3865233287",
     "app.exp.two":"Experienced Teacher Assistant at soyhenry.com Bootcamp, where I supported instructors in delivering high-quality coding education to students of all levels. Assisted in course curriculum development, lesson planning and delivery, and provided one-on-one support to students during lab sessions.  Utilized my strong technical skills and passion for teaching to help students understand complex coding concepts and improve their overall performance. Collaborated with instructors to create a positive and inclusive learning environment, and helped to ensure the success of all students in the program.",
 
     "app.acad.exp":"ACADEMIC EXPERIENCE",
@@ -93,6 +96,9 @@
     "app.projects.3.gitHub":"https://github.com/eusalazar/todo-React",
     "app.projects.3.categoria":"Web development",
     "app.projects.3.descripcion": "To develop this task list, use React which helps us create interactive user interfaces easily and design simple views for each state of the application. It works quite simply, user can add a task or item in input field press Add to save, also can delete and mark as done.",
-    "app.projects.3.thumbnail": "/images/todo-react.png"
+    "app.projects.3.thumbnail": "/images/todo-react.png",
+
+    "app.button.proj":"See project",
+    "app.placeholdere1":"name"
 
 }

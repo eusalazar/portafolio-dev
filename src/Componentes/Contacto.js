@@ -18,12 +18,12 @@ export default function Contacto() {
             <h1 className='heading'>
                 <FormattedMessage id= "app.contacto.h1"/>
             </h1>
-            <form className='contact' onSubmit={sendEmail} id='asdf'>
-                <input type='text' name="from_name" placeholder='Nombre'/>
-                <input type='text' name='user_name' placeholder='Apellidos'/>
-                <input type='text' name='user_email' placeholder='Email'/>
-                <textarea name='user_message' placeholder='Motivo de contacto'/>
-                <input className='inpt' type='submit' value='Enviar'/>
+            <form className='contact' onSubmit={sendEmail} id='aaa'>
+                <input type='text' name="from_name" placeholder='first name'/>
+                <input type='text' name='user_name' placeholder='surname'/>
+                <input type='text' name='user_email' placeholder='email'/>
+                <textarea name='user_message' placeholder='inquiry'/>
+                <input className='inpt' type='submit' value='Send'/>
             </form>
         </div>
     )

@@ -1,19 +1,17 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
-import { FormattedMessage } from 'react-intl';
-
 import { projects } from '../data/proyectos'
 
-export default function ListadoProyectos({limite}) {
+export default function ListadoProyectos() {
     const proyecto = (_, index) => {
         return (
             <article key={index} className='work-item'>
                 <div className='mask'>
                     { <img src={projects[index].thumbnail} alt={''} /> }
                 </div>
-                <span><FormattedMessage id={`app.projects.${index}.categoria`} /></span>
-                <h2><Link to={'/proyecto/' + proyecto.id}> <FormattedMessage id={`app.projects.${index}.nombre`} /></Link></h2>
-                <h3><FormattedMessage id={`app.projects.${index}.tecnologias`} /></h3>
+                <span>{projects[index].categoria}</span>
+                <h2><Link to={'/project/' + projects[index].id}>{projects[index].nombre}</Link></h2>
+                <h3>{projects[index].tecnologias}</h3>
             </article>)
     }
 

@@ -1,5 +1,5 @@
 {
-  "app.header" : "Bienvenidos a mi Portfolio soy " ,
+  "app.header" : "Bienvenidos a mi Portfolio, soy " ,
   "app.header.button-text": "Contacta conmigo",
   "app.header.h2":"Algunos de mis proyectos",
 
@@ -9,12 +9,15 @@
   "app.header.cont":"Contacto",
 
   "app.cv.heading":"Curriculum",
+  "app.about":"Sobre mí",
+  "app.about.p":"Junior Full-Stack JavaScript altamente motivado y ansioso Desarrollador apasionado por construir proyectos innovadores y Aplicaciones web intuitivas. Poseo un fuerte comprensión de JavaScript, HTML y CSS, así como como experiencia con frameworks populares como React y Node.js. Fuertes habilidades para resolver problemas y capacidad para trabajar bien en un ambiente de equipo. Emocionado de continuar aprendiendo y creciendo en la industria tecnológica.",
+  "app.skills":"HABILIDADES",
   "app.skill.one":"Fuerte comprensión de JavaScript, HTML y CSS.",
   "app.skill.two":"Experiencia con populares entornos de JavaScript como React y Node.js.",
-  "app.skill.three":"Familiaridad con SQL y gestion de base de datos.",
+  "app.skill.three":"Familiaridad con SQL y gestión de base de datos.",
   "app.skill.for":"Experiencia con Docker y contenerización.",
   "app.skill.five":"Experiencia con Git y control de versiones.",
-  "app.skill.six":"Fuerte resolución de problemas y habilidad de analisis.",
+  "app.skill.six":"Fuerte resolución de problemas y habilidad de análisis.",
   "app.skill.seven":"Comprensión de metodologías ágiles y ciclo de vida del desarrollo de software.",
   "app.skill.eight":"Experiencia en la construcción de aplicaciones web full-stack.",
   "app.skill.nine":"Fuerte comunicación y habilidades de colaboración.",
@@ -24,8 +27,8 @@
   "app.work.exp":"EXPERIENCIA LABORAL",
   "app.exp.one":"Freelance",
   "app.exp.contact1":"-Maquetación web con Bootstrap en proyectos desarrollados con ASP.NET. REFERENCIA: Adrián Turbay - 3816178876",
-  "app.exp.contact2":"-Colaboración en proyectos a través de Upwork.REFERENCIA: Diego Paz - 386523328",
-  "app.exp.two": "Asistente de profesor con experiencia en soyhenry.com Bootcamp, donde apoyé a los instructores en la entrega educación de codificación de alta calidad para estudiantes de todos los niveles. Asistido en el desarrollo del plan de estudios del curso, lección planificación y entrega, y proporcionó uno-a-uno apoyo a los estudiantes durante las sesiones de laboratorio. utilicé mi fuertes habilidades técnicas y pasión por enseñar para ayudar los estudiantes entienden conceptos de codificación complejos y mejorar su desempeño general. Colaboró con instructores para crear un aprendizaje positivo e inclusivo ambiente, y ayudó a asegurar el éxito de todos estudiantes en el programa",
+  "app.exp.contact2":"-Colaboración en proyectos a través de Upwork.REFERENCIA: Diego Paz -3865233287",
+  "app.exp.two": "Asistente de profesor con experiencia en soyhenry.com Bootcamp, donde apoyé a los instructores en la entrega educación de codificación de alta calidad para estudiantes de todos los niveles. Asisti en el desarrollo del plan de estudios del curso, lección planificación y entrega, y proporcionó uno-a-uno apoyo a los estudiantes durante las sesiones de laboratorio. Utilicé mis fuertes habilidades técnicas y pasión por enseñar para ayudar a los estudiantes a entender conceptos de codificación complejos y mejorar su desempeño general. Colabore con instructores para crear un aprendizaje positivo e inclusivo ambiente, y ayude a asegurar el éxito de todos estudiantes en el programa",
 
 
   "app.acad.exp":"EXPERIENCIA ACADEMICA",
@@ -46,7 +49,7 @@
 
   "app.idiom": "IDIOMA",
   "app.idiom.one": "Español nativo",
-  "app.idiom.two": "Ingles",
+  "app.idiom.two": "Inglés",
 
   "app.projects.0.id": "todo-jquerys",
   "app.projects.0.nombre":"To do jQuery",
@@ -84,11 +87,8 @@
   "app.projects.3.descripcion": "Para desarrollar esta lista de tareas utilice React que nos ayuda a crear interfaces de usuario interactivas de forma sencilla y diseña vistas simples para cada estado de la  aplicación. Funciona de manera bastante siemple, el usuario puede agregar una tarea o elemento en el campo de entrada presionar Add para guardar, tambien puede eliminar y marcarla como realizada.",
   "app.projects.3.thumbnail": "/images/todo-react.png",
 
+  "app.button.proj":"Ver proyecto",
 
-
-
-
-
-
-  "app.contacto.h1": "Contacto"
+  "app.contacto.h1": "Contacto",
+  "app.placeholdere1":"nombre"
 }
