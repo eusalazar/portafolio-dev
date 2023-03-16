@@ -14,7 +14,7 @@ export default function MisRutas() {
             <HeaderNav/>
             <section className='content'>
             <Routes>
-                <Route path='/' element={<Navigate to='/inicio'/>}/>
+                <Route path='/' element={<Navigate to='/home'/>}/>
                 <Route path='/home' element={<Inicio/>}/>
                 <Route path='/portfolio' element={<Portfolio/>}/>
                 <Route path='/resume' element={<Curriculum/>}/>
